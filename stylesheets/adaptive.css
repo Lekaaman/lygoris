@@ -8,6 +8,79 @@
 
 @media screen and (min-width: 769px) and (max-width: 1440px) {
 
+  .firstsection {
+    display: grid;
+    grid-template-columns: repeat(12, 8.3vw);
+    grid-template-rows: repeat(4, 8.3vw);
+  }
+
+  .uwillcr {
+    margin: 22% 0 0 -71%;
+  }
+
+  .sec6 {
+    background-size: 16.5vw 8.25vw;
+  }
+
+  .sec2 {
+    background-size: 8.25vw 16.5vw;
+  }
+
+  .sec22 {
+    background-size: 8.25vw 8.25vw;
+  }
+
+  .sec12, .sec58, .sec68, .sec94, .sec99 {
+    background-size: 8.25vw 8.25vw;
+  }
+
+  .sec49, .sec44, .sec108 {
+    background-size: 16.5vw 9.25vw;
+  }
+
+  .sec64, .sec10 {
+    animation-play-state: paused;
+  }
+
+  .sec52 {
+    background-size: 13.25vw 16.5vw;
+  }
+
+  .sec28 {
+    background-size: 8.25vw 8.25vw;
+  }
+
+  .sec43, .sec51, .sec1, .sec105 {
+    animation: down 3s ease infinite;
+  }
+
+  @keyframes down {
+    0% {transform: translateY(0);}
+    50% {transform: translateY(8.3vw);}
+    100% {transform: translateY(0);}
+  }
+
+  .sec91, .sec93, .sec10 {
+    animation: up 3s ease infinite;
+  }
+  
+  @keyframes up {
+    0% {transform: translateY(0);}
+    50% {transform: translateY(-8.3vw);}
+    100% {transform: translateY(0);}
+  }
+
+  .secondsection {
+    display: grid;
+    grid-template-columns: repeat(12, 8.3vw);
+    grid-template-rows: repeat(5, 8.3vw);
+  }
+
+  .thirdsection {
+    display: grid;
+    grid-template-columns: repeat(12, 8.3vw);
+    grid-template-rows: repeat(4, 8.3vw);
+  }
 }
 
 
