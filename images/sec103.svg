@@ -1,0 +1,23 @@
+<svg width="93" height="93" viewBox="0 0 93 93" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_di_83_887)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65.1605 18.6611C65.1605 22.4368 64.0392 25.9506 62.1114 28.8876C65.0485 26.9597 68.5624 25.8383 72.3382 25.8383C82.6445 25.8383 90.9993 34.1931 90.9993 44.4994C90.9993 54.8056 82.6445 63.1605 72.3382 63.1605C68.5616 63.1605 65.0471 62.0386 62.1096 60.11C64.0385 63.0476 65.1605 66.5624 65.1605 70.3392C65.1605 80.6454 56.8056 89.0003 46.4994 89.0003C36.1931 89.0003 27.8383 80.6454 27.8383 70.3392C27.8383 66.5626 28.9601 63.0481 30.8887 60.1106C27.9515 62.0389 24.4373 63.1605 20.6611 63.1605C10.3549 63.1605 2 54.8056 2 44.4994C2 34.1931 10.3549 25.8383 20.6611 25.8383C24.4365 25.8383 27.9501 26.9594 30.887 28.887C28.9594 25.9501 27.8383 22.4365 27.8383 18.6611C27.8383 8.35486 36.1931 0 46.4994 0C56.8056 0 65.1605 8.35486 65.1605 18.6611Z" fill="#D6467D"/>
+</g>
+<defs>
+<filter id="filter0_di_83_887" x="0" y="0" width="92.9993" height="94.0005" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_83_887"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_83_887" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_83_887"/>
+</filter>
+</defs>
+</svg>
